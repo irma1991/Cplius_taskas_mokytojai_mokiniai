@@ -1,0 +1,42 @@
+Mokytojai 
+    Vardas Petrauskas Geografija 1
+
+    Apolonijus Pavardenis Matematika 1
+
+    Informatikas Jonaitis Informatika 2
+
+    Valentinas Gudrauskas Chemija 3
+
+    Jadvyga Keturake Fizika 4
+
+Mokiniai 
+    Jonas Karciauskas Geografija 7
+
+    Petras Petraitis Matematika 5
+
+    Alfonsas Studentauskas Informatika 8
+
+    Rita Statinaite Chemija 9
+
+    Laima Kedziuviene Fizika 2
+
+    Simona Padvelskyte Informatika 10
+
+    Raminta Masiulyte Chemija 3
+
+    Deividas Stankus Fizika 4
+
+    Jonas Kurtinaitis Chemija 8
+
+    Valdas Sarkauskas Fizika 7
+
+    Justas Pavardauskas Fizika 7
+
+Daugiausiai mokiniu turi:
+Jadvyga Keturake. Sis mokytojas desto: Fizika .
+Mokiniu skaicius, kuriems desto si dalyka, yra: 4
+
+Mokytojas, kurio mokiniai mokosi geriausiai, yra:
+Vardas Petrauskas.
+Jo destomas dalykas yra: Geografija.
+Geriausio jo mokinio vidurkis yra: 7.

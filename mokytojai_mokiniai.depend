@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1576605895 source:c:\users\irma\desktop\mokytojai_mokiniai\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+
